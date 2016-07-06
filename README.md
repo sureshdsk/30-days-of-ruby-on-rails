@@ -6,10 +6,11 @@ draft
 
 
 ### Install rbenv
+```
+brew update
 
-$ brew update
-$ brew install rbenv ruby-build
-
+brew install rbenv ruby-build
+```
 Run below command on terminal
 
 ```
