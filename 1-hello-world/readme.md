@@ -1,7 +1,3 @@
-# 30-days-of-ruby-on-rails
-draft
-
-
 ## Day 1 - Intall Ruby on Rails on Mac OSX
 
 
@@ -38,8 +34,3 @@ bin/rails server
 project runs at http://localhost:3000
 
 If you want to run on different port $ bin/rails server -p 4000
-
-## Note
-If you get "Errno::EACCES: Permission denied @ dir_s_mkdir" while creating project, do set ownership for the rbenv directory for your user. 
-
-$ sudo chown -R USERNAME ~/.rbenv
