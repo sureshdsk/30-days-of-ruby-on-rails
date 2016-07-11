@@ -12,3 +12,5 @@ draft
 ##### [Day 4 - Models - Form validation](4-rails-models-form-validation)
 
 ##### [Day 5 - Models - Update Data](5-rails-models-update-data)
+
+##### [Day 6 - Models - Delete Data](6-rails-model-delete-data)
