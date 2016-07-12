@@ -14,3 +14,5 @@ draft
 ##### [Day 5 - Models - Update Data](5-rails-models-update-data)
 
 ##### [Day 6 - Models - Delete Data](6-rails-model-delete-data)
+
+##### [Day 7 - Rails - Template Partials](7-rails-template-partials)
