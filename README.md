@@ -16,3 +16,5 @@ draft
 ##### [Day 6 - Models - Delete Data](6-rails-model-delete-data)
 
 ##### [Day 7 - Rails - Template Partials](7-rails-template-partials)
+
+##### [Day 8 - Rails - Twitter Boostrap](8-rails-templates-using-twitter-boostrap)
