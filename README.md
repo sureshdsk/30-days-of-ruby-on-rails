@@ -18,3 +18,5 @@ draft
 ##### [Day 7 - Rails - Template Partials](7-rails-template-partials)
 
 ##### [Day 8 - Rails - Twitter Boostrap](8-rails-templates-using-twitter-boostrap)
+
+##### [Day 9 - Rails - Adding new attribute to model](9-rails-adding-new-field-to-model)
