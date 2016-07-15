@@ -20,3 +20,5 @@ draft
 ##### [Day 8 - Rails - Twitter Boostrap](8-rails-templates-using-twitter-boostrap)
 
 ##### [Day 9 - Rails - Adding new attribute to model](9-rails-adding-new-field-to-model)
+
+##### [Day 10 - Rails - Admin authentication with HTTP Basic Auth](10-rails-admin-authentication-with-http-basic-auth)
