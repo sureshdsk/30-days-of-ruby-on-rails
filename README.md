@@ -22,3 +22,5 @@ draft
 ##### [Day 9 - Rails - Adding new attribute to model](9-rails-adding-new-field-to-model)
 
 ##### [Day 10 - Rails - Admin authentication with HTTP Basic Auth](10-rails-admin-authentication-with-http-basic-auth)
+
+##### [Day 11 - Rails - HTTP Digest Auth](11-rails-http-digest-auth)
