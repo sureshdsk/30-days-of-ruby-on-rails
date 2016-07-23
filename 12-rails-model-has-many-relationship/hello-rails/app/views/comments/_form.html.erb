@@ -1,0 +1,14 @@
+<%= form_for([@book, @book.comments.build]) do |cf| %>
+
+  <p>
+    <%= cf.label :commenter %><br>
+    <%= cf.text_field :commenter %>
+  </p>
+  <p>
+    <%= cf.label :message %><br>
+    <%= cf.text_area :message %>
+  </p>
+  <p>
+    <%= cf.submit %>
+  </p>
+<% end %>
