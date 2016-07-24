@@ -26,3 +26,5 @@ draft
 ##### [Day 11 - Rails - HTTP Digest Auth](11-rails-http-digest-auth)
 
 ##### [Day 12 - Rails - Model - has_many relationship](12-rails-model-has-many-relationship)
+
+##### [Day 13 - Rails - Activerecord Pagination](13-rails-model-activerecord-pagination)
