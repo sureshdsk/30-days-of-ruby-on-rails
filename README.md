@@ -28,3 +28,5 @@ draft
 ##### [Day 12 - Rails - Model - has_many relationship](12-rails-model-has-many-relationship)
 
 ##### [Day 13 - Rails - Activerecord Pagination](13-rails-model-activerecord-pagination)
+
+##### [Day 14 - Rails - Pagination - Bootstrap style](14-rails-model-activerecord-pagination-bootstrap-style)
