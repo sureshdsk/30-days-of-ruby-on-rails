@@ -1,0 +1,38 @@
+<div class="col-xs-12 col-sm-6 col-sm-offset-3">
+<div class="panel panel-default">
+  <div class="panel-body">
+<h1>Book</h1>
+<p>
+  <strong>Title:</strong>
+  <%= @book.title %>
+</p>
+ 
+<p>
+  <strong>Description:</strong>
+  <%= @book.description %>
+</p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @book.author %>
+</p>
+
+<p>
+  <strong>Rating:</strong>
+  <%= @book.rating %>
+</p>
+
+<h2>Comments</h2>
+<% if @book.comments.count > 0 %>
+<%= render @book.comments %>
+<% else %>
+<%= render "comments/empty" %>
+<% end %>
+
+<h2>Add a comment:</h2>
+<%= render "comments/form"%>
+
+</div>
+</div>
+
+</div>
